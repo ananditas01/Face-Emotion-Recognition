@@ -1,4 +1,4 @@
-Datase Download Link: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+Dataset Download Link: https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
 
 Collect a dataset of facial images with labeled expressions. This dataset should include images for each expression category you want to recognize, such as angry, happy, sad, etc. Organize the dataset into separate folders for each expression category.
 
